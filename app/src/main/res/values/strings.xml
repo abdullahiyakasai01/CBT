@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CBT</string>
+    <string name="play">START</string>
+    <string name="setting">Settings</string>
+    <string name="exit">QUIT</string>
+    <string name="restart">Restart</string>
+    <string name="score">Score :</string>
+    <string name="next">Next</string>
+    <string name="question">question</string>
+    <string name="_1_5">1/5</string>
+    <string name="choose_1">choose 1</string>
+    <string name="choose_2">choose 2</string>
+    <string name="choose_3">choose 3</string>
+    <string name="choose_4">choose 4</string>
+    <string name="todo">TODO</string>
+</resources>
